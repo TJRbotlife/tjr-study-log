@@ -2,7 +2,7 @@
 
 Metadata only. Watch the video on YouTube. This list is the study order.
 
-Noted: 20. Queued: 40. Catalogued 2026-09-30.
+Noted: 40. Queued: 20. Catalogued 2026-09-30.
 
 
 ## Boot Camp
@@ -29,26 +29,26 @@ Noted: 20. Queued: 40. Catalogued 2026-09-30.
 | 18 | Boot Camp Day 18: FVG Pt. 3 | [note](../study/notes/2023-06-12-boot-camp-day-18.md) | [qecF411R83s](https://www.youtube.com/watch?v=qecF411R83s) |
 | 19 | Boot Camp Day 19: How to Read News Data | [note](../study/notes/2023-06-13-boot-camp-day-19.md) | [w5sUCqFH3Lg](https://www.youtube.com/watch?v=w5sUCqFH3Lg) |
 | 20 | Boot Camp Day 20: Order Blocks | [note](../study/notes/2023-06-14-boot-camp-day-20.md) | [qhuFg_OXdmE](https://www.youtube.com/watch?v=qhuFg_OXdmE) |
-| 21 | Boot Camp Day 21: How to Take a Win & Life Lessons | queued | [z9p7OThLkr4](https://www.youtube.com/watch?v=z9p7OThLkr4) |
-| 22 | Boot Camp Day 22: Order Blocks pt.2 | queued | [RQSVIKddFHI](https://www.youtube.com/watch?v=RQSVIKddFHI) |
-| 23 | Boot Camp Day 23: Check In/ Be my boy | queued | [ERbhCL9KW_g](https://www.youtube.com/watch?v=ERbhCL9KW_g) |
-| 24 | Boot Camp Day 24: Order Blocks pt.3 | queued | [12_F-mIUfL0](https://www.youtube.com/watch?v=12_F-mIUfL0) |
-| 25 | Boot Camp Day 25: Over Confidence | queued | [4moWbfm6smw](https://www.youtube.com/watch?v=4moWbfm6smw) |
-| 26 | Boot Camp Day 26: Equilibrium | queued | [j1pVK897oZQ](https://www.youtube.com/watch?v=j1pVK897oZQ) |
-| 27 | Boot Camp Day 27: Fear | queued | [TwakmPZJGJA](https://www.youtube.com/watch?v=TwakmPZJGJA) |
-| 28 | Boot Camp Day 28: Equilibrium pt.2 | queued | [-E7plUbSJUk](https://www.youtube.com/watch?v=-E7plUbSJUk) |
-| 29 | Boot Camp Day 29: Trading Plan | queued | [065lMUrD_kg](https://www.youtube.com/watch?v=065lMUrD_kg) |
-| 30 | Boot Camp Day 30: Execution | queued | [ESsy0uoFAz4](https://www.youtube.com/watch?v=ESsy0uoFAz4) |
-| 31 | Boot Camp Day 31: Hard Work | queued | [isetVuqlSLo](https://www.youtube.com/watch?v=isetVuqlSLo) |
-| 32 | Boot Camp Day 32: Execution pt.2 | queued | [SLhIA7vW9x8](https://www.youtube.com/watch?v=SLhIA7vW9x8) |
-| 33 | Boot Camp Day 33: Execution pt.3 | queued | [K8DwhtmvAW8](https://www.youtube.com/watch?v=K8DwhtmvAW8) |
-| 34 | Boot Camp Day 34: Daily Bias | queued | [sjuWqKDsQtI](https://www.youtube.com/watch?v=sjuWqKDsQtI) |
-| 35 | Boot Camp Day 35: Daily Bias pt. 2 | queued | [UPA9LQW7phk](https://www.youtube.com/watch?v=UPA9LQW7phk) |
-| 36 | Boot Camp Day 36: Daily Bias pt. 3 | queued | [Y1lqifylC4s](https://www.youtube.com/watch?v=Y1lqifylC4s) |
-| 37 | Boot Camp Day 37: Taking Profits | queued | [FjSiLFrg5fo](https://www.youtube.com/watch?v=FjSiLFrg5fo) |
-| 38 | Boot Camp Day 38: Stop Losses | queued | [1FunNCUw_jM](https://www.youtube.com/watch?v=1FunNCUw_jM) |
-| 39 | Boot Camp Day 39: Calculating Lot Size | queued | [KSiWKfPOlh4](https://www.youtube.com/watch?v=KSiWKfPOlh4) |
-| 40 | Boot Camp Day 40: Help me help you | queued | [O_4yHzZO0u0](https://www.youtube.com/watch?v=O_4yHzZO0u0) |
+| 21 | Boot Camp Day 21: How to Take a Win & Life Lessons | [note](../study/notes/2023-06-16-boot-camp-day-21.md) | [z9p7OThLkr4](https://www.youtube.com/watch?v=z9p7OThLkr4) |
+| 22 | Boot Camp Day 22: Order Blocks pt.2 | [note](../study/notes/2023-06-17-boot-camp-day-22.md) | [RQSVIKddFHI](https://www.youtube.com/watch?v=RQSVIKddFHI) |
+| 23 | Boot Camp Day 23: Check In/ Be my boy | [note](../study/notes/2023-06-18-boot-camp-day-23.md) | [ERbhCL9KW_g](https://www.youtube.com/watch?v=ERbhCL9KW_g) |
+| 24 | Boot Camp Day 24: Order Blocks pt.3 | [note](../study/notes/2023-06-20-boot-camp-day-24.md) | [12_F-mIUfL0](https://www.youtube.com/watch?v=12_F-mIUfL0) |
+| 25 | Boot Camp Day 25: Over Confidence | [note](../study/notes/2023-06-21-boot-camp-day-25.md) | [4moWbfm6smw](https://www.youtube.com/watch?v=4moWbfm6smw) |
+| 26 | Boot Camp Day 26: Equilibrium | [note](../study/notes/2023-06-22-boot-camp-day-26.md) | [j1pVK897oZQ](https://www.youtube.com/watch?v=j1pVK897oZQ) |
+| 27 | Boot Camp Day 27: Fear | [note](../study/notes/2023-06-23-boot-camp-day-27.md) | [TwakmPZJGJA](https://www.youtube.com/watch?v=TwakmPZJGJA) |
+| 28 | Boot Camp Day 28: Equilibrium pt.2 | [note](../study/notes/2023-06-23-boot-camp-day-28.md) | [-E7plUbSJUk](https://www.youtube.com/watch?v=-E7plUbSJUk) |
+| 29 | Boot Camp Day 29: Trading Plan | [note](../study/notes/2023-06-24-boot-camp-day-29.md) | [065lMUrD_kg](https://www.youtube.com/watch?v=065lMUrD_kg) |
+| 30 | Boot Camp Day 30: Execution | [note](../study/notes/2023-06-25-boot-camp-day-30.md) | [ESsy0uoFAz4](https://www.youtube.com/watch?v=ESsy0uoFAz4) |
+| 31 | Boot Camp Day 31: Hard Work | [note](../study/notes/2023-06-25-boot-camp-day-31.md) | [isetVuqlSLo](https://www.youtube.com/watch?v=isetVuqlSLo) |
+| 32 | Boot Camp Day 32: Execution pt.2 | [note](../study/notes/2023-06-28-boot-camp-day-32.md) | [SLhIA7vW9x8](https://www.youtube.com/watch?v=SLhIA7vW9x8) |
+| 33 | Boot Camp Day 33: Execution pt.3 | [note](../study/notes/2023-06-28-boot-camp-day-33.md) | [K8DwhtmvAW8](https://www.youtube.com/watch?v=K8DwhtmvAW8) |
+| 34 | Boot Camp Day 34: Daily Bias | [note](../study/notes/2023-06-29-boot-camp-day-34.md) | [sjuWqKDsQtI](https://www.youtube.com/watch?v=sjuWqKDsQtI) |
+| 35 | Boot Camp Day 35: Daily Bias pt. 2 | [note](../study/notes/2023-06-30-boot-camp-day-35.md) | [UPA9LQW7phk](https://www.youtube.com/watch?v=UPA9LQW7phk) |
+| 36 | Boot Camp Day 36: Daily Bias pt. 3 | [note](../study/notes/2023-07-01-boot-camp-day-36.md) | [Y1lqifylC4s](https://www.youtube.com/watch?v=Y1lqifylC4s) |
+| 37 | Boot Camp Day 37: Taking Profits | [note](../study/notes/2023-07-02-boot-camp-day-37.md) | [FjSiLFrg5fo](https://www.youtube.com/watch?v=FjSiLFrg5fo) |
+| 38 | Boot Camp Day 38: Stop Losses | [note](../study/notes/2023-07-03-boot-camp-day-38.md) | [1FunNCUw_jM](https://www.youtube.com/watch?v=1FunNCUw_jM) |
+| 39 | Boot Camp Day 39: Calculating Lot Size | [note](../study/notes/2023-07-04-boot-camp-day-39.md) | [KSiWKfPOlh4](https://www.youtube.com/watch?v=KSiWKfPOlh4) |
+| 40 | Boot Camp Day 40: Help me help you | [note](../study/notes/2023-07-05-boot-camp-day-40.md) | [O_4yHzZO0u0](https://www.youtube.com/watch?v=O_4yHzZO0u0) |
 | 41 | Boot Camp Day 41: Learn from Losses | queued | [PyCPHiO2nj0](https://www.youtube.com/watch?v=PyCPHiO2nj0) |
 | 42 | Boot Camp Day 42: How to Backtest | queued | [NPG_BZ_83fo](https://www.youtube.com/watch?v=NPG_BZ_83fo) |
 | 43 | Boot Camp Day 43: Weekly Analysis | queued | [9SUJfAo6Sl8](https://www.youtube.com/watch?v=9SUJfAo6Sl8) |
