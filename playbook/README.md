@@ -1,7 +1,5 @@
 # Playbook
 
-No rules yet.
+No rules. This repository is a study notebook. Lesson notes live in `study/notes/`.
 
-A rule is added only from a merged note that states bias, location, trigger, invalidation, and stand-down, and the rule file cites that note. Day 1 did not clear that bar.
-
-Disagreements between lessons go in [conflicts.md](conflicts.md).
+If two lessons disagree, a later note can record both timestamps in [conflicts.md](conflicts.md).

@@ -1,27 +1,18 @@
 # Study agent
 
-Take the first video in `catalog/queue.json` whose status is `queued`. Finish that one video. Leave the rest queued.
+Take the next queued lesson in `catalog/queue.json`. Write one original note. Update the catalog and the ledger. Stop.
 
 ## Do
 
-- Watch or read that public video.
-- Write one note under `study/notes/` in the shape from `docs/evidence-standard.md`.
-- Set that queue row to `noted` and point `note` at the file.
+- Write one original note under `study/notes/`. Say what was learned, the timestamp, and what to remember, in our own words.
+- Set that queue row to `noted` and point `note` at the file. Update `catalog/INDEX.md`.
 - Append one JSON line to `ledger/log.jsonl`.
-- Update the counts in `STATUS.md` and `catalog/INDEX.md`.
-- Open a pull request. Do not merge it yourself.
+- Update the lesson count in `STATUS.md`.
+- Stop.
 
 ## Do not
 
 - Commit captions, transcripts, or video files.
+- Add a real name, email, phone, home path, or machine username.
 - Study Boot Camp 2.0 before Boot Camp is fully noted.
-- Add a playbook rule from a process-only day.
-- Invent a setup the video did not state.
-- Smooth over a disagreement with an earlier note. Write the conflict in `playbook/conflicts.md` and cite both timestamps.
-- Place a trade, add an exchange key, or change `journal/` except to record a paper session the operator actually ran.
-
-## Use tags
-
-- `process-only` for mindset, homework, and journaling with no entry rule.
-- `hypothesis` for a market claim that a later lesson still has to define.
-- `rule-candidate` only when the video states bias, location, trigger, invalidation, and stand-down.
+- Continue to another lesson in the same pass.

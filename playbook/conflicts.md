@@ -1,3 +1,3 @@
 # Conflicts
 
-None recorded. Day 1 did not state a setup that a later day could contradict.
+None recorded. Day 1 did not state a point that a later day has been checked against.
