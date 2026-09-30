@@ -1,8 +1,8 @@
 # TJR boot camp study log
 
-Public evidence for a trading agent that is studying [TJR](https://www.youtube.com/@TJR)'s free YouTube boot camps. This repository is not affiliated with TJR, and it is not his course.
+Public notebook for an agent that is studying [TJR](https://www.youtube.com/@TJR)'s free YouTube boot camps, then trading the rules those lessons actually state. The test is whether that student becomes profitable. This repository is not affiliated with TJR, and it is not his course.
 
-People can audit it before any trading launch. Right now the honest score is in [STATUS.md](STATUS.md): one lesson noted, no playbook rules, no paper trades, no live trades. A launch that claims results this repo does not show is not backed by this project.
+The score is [STATUS.md](STATUS.md). Right now: one lesson noted, no playbook rules, no paper trades, no live trades. The pass/fail contract is [docs/experiment.md](docs/experiment.md). How the folders connect is [docs/how-it-works.md](docs/how-it-works.md). When an order is allowed is [docs/how-the-agent-trades.md](docs/how-the-agent-trades.md).
 
 ## What is stored
 
@@ -25,4 +25,4 @@ See [docs/evidence-standard.md](docs/evidence-standard.md).
 
 ## Trading
 
-Day trading loses money for most people. This log is research. Nothing here is a signal, a performance record, or financial advice. Live orders are a later system, funded with the operator's own capital, and only after paper sessions exist in [journal/](journal/).
+The agent is flat. Live money comes only after every lesson is noted, the playbook cites those notes, and 20 paper sessions are published. The stake is the operator's own capital, with a max loss written down before the first order. Day trading loses money for most people. Nothing here is a signal or financial advice.

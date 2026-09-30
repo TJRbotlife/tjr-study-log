@@ -12,6 +12,8 @@ Updated 2026-09-30. This file is the scoreboard. If a public claim disagrees wit
 | Paper sessions | 0 |
 | Live trades | 0 |
 
+Live test: not started. Contract: [docs/experiment.md](docs/experiment.md).
+
 Next lesson: [Boot Camp Day 2: Candlesticks](https://www.youtube.com/watch?v=bEkbNGUzQME).
 
 Latest note: [study/notes/2023-05-26-boot-camp-day-01.md](study/notes/2023-05-26-boot-camp-day-01.md).
