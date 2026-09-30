@@ -2,7 +2,7 @@
 
 Metadata only. Watch the video on YouTube. This list is the study order.
 
-Noted: 40. Queued: 20. Catalogued 2026-09-30.
+Noted: 60. Queued: 0. Catalogued 2026-09-30.
 
 
 ## Boot Camp
@@ -49,28 +49,28 @@ Noted: 40. Queued: 20. Catalogued 2026-09-30.
 | 38 | Boot Camp Day 38: Stop Losses | [note](../study/notes/2023-07-03-boot-camp-day-38.md) | [1FunNCUw_jM](https://www.youtube.com/watch?v=1FunNCUw_jM) |
 | 39 | Boot Camp Day 39: Calculating Lot Size | [note](../study/notes/2023-07-04-boot-camp-day-39.md) | [KSiWKfPOlh4](https://www.youtube.com/watch?v=KSiWKfPOlh4) |
 | 40 | Boot Camp Day 40: Help me help you | [note](../study/notes/2023-07-05-boot-camp-day-40.md) | [O_4yHzZO0u0](https://www.youtube.com/watch?v=O_4yHzZO0u0) |
-| 41 | Boot Camp Day 41: Learn from Losses | queued | [PyCPHiO2nj0](https://www.youtube.com/watch?v=PyCPHiO2nj0) |
-| 42 | Boot Camp Day 42: How to Backtest | queued | [NPG_BZ_83fo](https://www.youtube.com/watch?v=NPG_BZ_83fo) |
-| 43 | Boot Camp Day 43: Weekly Analysis | queued | [9SUJfAo6Sl8](https://www.youtube.com/watch?v=9SUJfAo6Sl8) |
-| 44 | Boot Camp Day 44: Try not to Trade | queued | [uGi6EeKnWSk](https://www.youtube.com/watch?v=uGi6EeKnWSk) |
-| 45 | Boot Camp Day 45: Over Complicating | queued | [LG_IbfjbaOo](https://www.youtube.com/watch?v=LG_IbfjbaOo) |
-| 46 | Boot Camp Day 46: Journaling Trades | queued | [CZRs2NuLQIw](https://www.youtube.com/watch?v=CZRs2NuLQIw) |
+| 41 | Boot Camp Day 41: Learn from Losses | [note](../study/notes/2023-07-06-boot-camp-day-41.md) | [PyCPHiO2nj0](https://www.youtube.com/watch?v=PyCPHiO2nj0) |
+| 42 | Boot Camp Day 42: How to Backtest | [note](../study/notes/2023-07-07-boot-camp-day-42.md) | [NPG_BZ_83fo](https://www.youtube.com/watch?v=NPG_BZ_83fo) |
+| 43 | Boot Camp Day 43: Weekly Analysis | [note](../study/notes/2023-07-09-boot-camp-day-43.md) | [9SUJfAo6Sl8](https://www.youtube.com/watch?v=9SUJfAo6Sl8) |
+| 44 | Boot Camp Day 44: Try not to Trade | [note](../study/notes/2023-07-10-boot-camp-day-44.md) | [uGi6EeKnWSk](https://www.youtube.com/watch?v=uGi6EeKnWSk) |
+| 45 | Boot Camp Day 45: Over Complicating | [note](../study/notes/2023-07-10-boot-camp-day-45.md) | [LG_IbfjbaOo](https://www.youtube.com/watch?v=LG_IbfjbaOo) |
+| 46 | Boot Camp Day 46: Journaling Trades | [note](../study/notes/2023-07-11-boot-camp-day-46.md) | [CZRs2NuLQIw](https://www.youtube.com/watch?v=CZRs2NuLQIw) |
 
 ## Boot Camp 2.0
 
 | Order | Title | Status | Video |
 | ---: | --- | --- | --- |
-| 1 | Boot Camp 2.0 | queued | [o_SdawM3DIE](https://www.youtube.com/watch?v=o_SdawM3DIE) |
-| 2 | Boot Camp 2.0 Day 2: How to handle emotions | queued | [OH--4nkbXlM](https://www.youtube.com/watch?v=OH--4nkbXlM) |
-| 3 | Boot Camp 2.0 Day 3: Risk | queued | [G7eq6U8e3yw](https://www.youtube.com/watch?v=G7eq6U8e3yw) |
-| 4 | Boot Camp 2.0 Day 4: Best Forex Broker | queued | [4aYaeI2Av2I](https://www.youtube.com/watch?v=4aYaeI2Av2I) |
-| 5 | Boot Camp 2.0 Day 5: How to find Trade Bias | queued | [IY9NJbaNyqA](https://www.youtube.com/watch?v=IY9NJbaNyqA) |
-| 6 | Boot Camp 2.0 Day 5.5: Second Trade | queued | [Iu_v4kuFQhk](https://www.youtube.com/watch?v=Iu_v4kuFQhk) |
-| 7 | Boot Camp 2.0 Day 6: Best Loss to Take | queued | [oJq8egtzCto](https://www.youtube.com/watch?v=oJq8egtzCto) |
-| 8 | Boot Camp 2.0 Day 7: Risk Management and Probabilities | queued | [7MBD3ow7I1g](https://www.youtube.com/watch?v=7MBD3ow7I1g) |
-| 9 | Boot Camp 2.0 Day 8: How to split positions | queued | [5v4G4xJVKIQ](https://www.youtube.com/watch?v=5v4G4xJVKIQ) |
-| 10 | Boot Camp 2.0 Day 9: Leveraging Risk | queued | [ss-dZPMnjeY](https://www.youtube.com/watch?v=ss-dZPMnjeY) |
-| 11 | Boot Camp 2.0 Day 10: Trade Recaps | queued | [r-DdsJLUlBk](https://www.youtube.com/watch?v=r-DdsJLUlBk) |
-| 12 | Boot Camp 2.0 Day 11: Where to Take Profit | queued | [6zXKK3Wrusg](https://www.youtube.com/watch?v=6zXKK3Wrusg) |
-| 13 | Boot Camp 2.0 Day 12: Red Day | queued | [SV37R6j5f4M](https://www.youtube.com/watch?v=SV37R6j5f4M) |
-| 14 | Boot Camp 2.0 Day 13: I Made $ on a Bad Trade | queued | [7Q3nalPsSpk](https://www.youtube.com/watch?v=7Q3nalPsSpk) |
+| 1 | Boot Camp 2.0 | [note](../study/notes/2023-08-24-boot-camp-2-day-01.md) | [o_SdawM3DIE](https://www.youtube.com/watch?v=o_SdawM3DIE) |
+| 2 | Boot Camp 2.0 Day 2: How to handle emotions | [note](../study/notes/2023-08-24-boot-camp-2-day-02.md) | [OH--4nkbXlM](https://www.youtube.com/watch?v=OH--4nkbXlM) |
+| 3 | Boot Camp 2.0 Day 3: Risk | [note](../study/notes/2023-08-25-boot-camp-2-day-03.md) | [G7eq6U8e3yw](https://www.youtube.com/watch?v=G7eq6U8e3yw) |
+| 4 | Boot Camp 2.0 Day 4: Best Forex Broker | [note](../study/notes/2023-08-26-boot-camp-2-day-04.md) | [4aYaeI2Av2I](https://www.youtube.com/watch?v=4aYaeI2Av2I) |
+| 5 | Boot Camp 2.0 Day 5: How to find Trade Bias | [note](../study/notes/2023-08-28-boot-camp-2-day-05.md) | [IY9NJbaNyqA](https://www.youtube.com/watch?v=IY9NJbaNyqA) |
+| 6 | Boot Camp 2.0 Day 5.5: Second Trade | [note](../study/notes/2023-08-28-boot-camp-2-day-06.md) | [Iu_v4kuFQhk](https://www.youtube.com/watch?v=Iu_v4kuFQhk) |
+| 7 | Boot Camp 2.0 Day 6: Best Loss to Take | [note](../study/notes/2023-08-29-boot-camp-2-day-07.md) | [oJq8egtzCto](https://www.youtube.com/watch?v=oJq8egtzCto) |
+| 8 | Boot Camp 2.0 Day 7: Risk Management and Probabilities | [note](../study/notes/2023-08-30-boot-camp-2-day-08.md) | [7MBD3ow7I1g](https://www.youtube.com/watch?v=7MBD3ow7I1g) |
+| 9 | Boot Camp 2.0 Day 8: How to split positions | [note](../study/notes/2023-08-31-boot-camp-2-day-09.md) | [5v4G4xJVKIQ](https://www.youtube.com/watch?v=5v4G4xJVKIQ) |
+| 10 | Boot Camp 2.0 Day 9: Leveraging Risk | [note](../study/notes/2023-09-05-boot-camp-2-day-10.md) | [ss-dZPMnjeY](https://www.youtube.com/watch?v=ss-dZPMnjeY) |
+| 11 | Boot Camp 2.0 Day 10: Trade Recaps | [note](../study/notes/2023-09-07-boot-camp-2-day-11.md) | [r-DdsJLUlBk](https://www.youtube.com/watch?v=r-DdsJLUlBk) |
+| 12 | Boot Camp 2.0 Day 11: Where to Take Profit | [note](../study/notes/2023-09-08-boot-camp-2-day-12.md) | [6zXKK3Wrusg](https://www.youtube.com/watch?v=6zXKK3Wrusg) |
+| 13 | Boot Camp 2.0 Day 12: Red Day | [note](../study/notes/2023-09-11-boot-camp-2-day-13.md) | [SV37R6j5f4M](https://www.youtube.com/watch?v=SV37R6j5f4M) |
+| 14 | Boot Camp 2.0 Day 13: I Made $ on a Bad Trade | [note](../study/notes/2023-09-12-boot-camp-2-day-14.md) | [7Q3nalPsSpk](https://www.youtube.com/watch?v=7Q3nalPsSpk) |
