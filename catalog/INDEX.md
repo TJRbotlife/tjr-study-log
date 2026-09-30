@@ -2,7 +2,7 @@
 
 Metadata only. Watch the video on YouTube. This list is the study order.
 
-Noted: 1. Queued: 59. Catalogued 2026-09-30.
+Noted: 20. Queued: 40. Catalogued 2026-09-30.
 
 
 ## Boot Camp
@@ -10,25 +10,25 @@ Noted: 1. Queued: 59. Catalogued 2026-09-30.
 | Order | Title | Status | Video |
 | ---: | --- | --- | --- |
 | 1 | Boot Camp Day 1: Take Action | [note](../study/notes/2023-05-26-boot-camp-day-01.md) | [Xq6-oO2n6-U](https://www.youtube.com/watch?v=Xq6-oO2n6-U) |
-| 2 | Boot Camp Day 2: Candlesticks | queued | [bEkbNGUzQME](https://www.youtube.com/watch?v=bEkbNGUzQME) |
-| 3 | Boot Camp Day 3: Discipline | queued | [w2CWF0WtLmQ](https://www.youtube.com/watch?v=w2CWF0WtLmQ) |
-| 4 | Boot Camp Day 4: Trends | queued | [viuGHEuv0nw](https://www.youtube.com/watch?v=viuGHEuv0nw) |
-| 5 | Boot Camp Day 5: Goal Setting | queued | [N7so8LEHmLA](https://www.youtube.com/watch?v=N7so8LEHmLA) |
-| 6 | Boot Camp Day 6: Break of Structure | queued | [PmhuPbY8ZHo](https://www.youtube.com/watch?v=PmhuPbY8ZHo) |
-| 7 | Boot Camp Day 7: Individuality | queued | [_6voYEdi5j4](https://www.youtube.com/watch?v=_6voYEdi5j4) |
-| 8 | Boot Camp Day 8: Liquidity Pt 1 | queued | [Lxnu7InGhGE](https://www.youtube.com/watch?v=Lxnu7InGhGE) |
-| 9 | Boot Camp Day 9: Check In | queued | [-ga9oK2bClQ](https://www.youtube.com/watch?v=-ga9oK2bClQ) |
-| 10 | Boot Camp Day 10: Liquidity Pt. 2 | queued | [rdz6vnXb8wE](https://www.youtube.com/watch?v=rdz6vnXb8wE) |
-| 11 | Boot Camp Day 11: How to take a Loss | queued | [_jLR3XcB5eQ](https://www.youtube.com/watch?v=_jLR3XcB5eQ) |
-| 12 | Boot Camp Day 12: Liquidity Pt  3 | queued | [KtC2SbemF6w](https://www.youtube.com/watch?v=KtC2SbemF6w) |
-| 13 | Boot Camp Day 13: Risk Management | queued | [RkMBoqbeUq8](https://www.youtube.com/watch?v=RkMBoqbeUq8) |
-| 14 | Boot Camp Day 14: Fair Value Gaps Pt. 1 | queued | [d0AxLACYaqU](https://www.youtube.com/watch?v=d0AxLACYaqU) |
-| 15 | Boot Camp Day 15: Identifying problems | queued | [T4xVS7iV5d8](https://www.youtube.com/watch?v=T4xVS7iV5d8) |
-| 16 | Boot Camp Day 16: FVG Pt. 2 | queued | [S1kY3Fw6JUQ](https://www.youtube.com/watch?v=S1kY3Fw6JUQ) |
-| 17 | Boot Camp Day 17: Patience | queued | [339amTioakE](https://www.youtube.com/watch?v=339amTioakE) |
-| 18 | Boot Camp Day 18: FVG Pt. 3 | queued | [qecF411R83s](https://www.youtube.com/watch?v=qecF411R83s) |
-| 19 | Boot Camp Day 19: How to Read News Data | queued | [w5sUCqFH3Lg](https://www.youtube.com/watch?v=w5sUCqFH3Lg) |
-| 20 | Boot Camp Day 20: Order Blocks | queued | [qhuFg_OXdmE](https://www.youtube.com/watch?v=qhuFg_OXdmE) |
+| 2 | Boot Camp Day 2: Candlesticks | [note](../study/notes/2023-05-27-boot-camp-day-02.md) | [bEkbNGUzQME](https://www.youtube.com/watch?v=bEkbNGUzQME) |
+| 3 | Boot Camp Day 3: Discipline | [note](../study/notes/2023-05-28-boot-camp-day-03.md) | [w2CWF0WtLmQ](https://www.youtube.com/watch?v=w2CWF0WtLmQ) |
+| 4 | Boot Camp Day 4: Trends | [note](../study/notes/2023-05-29-boot-camp-day-04.md) | [viuGHEuv0nw](https://www.youtube.com/watch?v=viuGHEuv0nw) |
+| 5 | Boot Camp Day 5: Goal Setting | [note](../study/notes/2023-05-30-boot-camp-day-05.md) | [N7so8LEHmLA](https://www.youtube.com/watch?v=N7so8LEHmLA) |
+| 6 | Boot Camp Day 6: Break of Structure | [note](../study/notes/2023-05-31-boot-camp-day-06.md) | [PmhuPbY8ZHo](https://www.youtube.com/watch?v=PmhuPbY8ZHo) |
+| 7 | Boot Camp Day 7: Individuality | [note](../study/notes/2023-06-01-boot-camp-day-07.md) | [_6voYEdi5j4](https://www.youtube.com/watch?v=_6voYEdi5j4) |
+| 8 | Boot Camp Day 8: Liquidity Pt 1 | [note](../study/notes/2023-06-02-boot-camp-day-08.md) | [Lxnu7InGhGE](https://www.youtube.com/watch?v=Lxnu7InGhGE) |
+| 9 | Boot Camp Day 9: Check In | [note](../study/notes/2023-06-03-boot-camp-day-09.md) | [-ga9oK2bClQ](https://www.youtube.com/watch?v=-ga9oK2bClQ) |
+| 10 | Boot Camp Day 10: Liquidity Pt. 2 | [note](../study/notes/2023-06-04-boot-camp-day-10.md) | [rdz6vnXb8wE](https://www.youtube.com/watch?v=rdz6vnXb8wE) |
+| 11 | Boot Camp Day 11: How to take a Loss | [note](../study/notes/2023-06-05-boot-camp-day-11.md) | [_jLR3XcB5eQ](https://www.youtube.com/watch?v=_jLR3XcB5eQ) |
+| 12 | Boot Camp Day 12: Liquidity Pt  3 | [note](../study/notes/2023-06-06-boot-camp-day-12.md) | [KtC2SbemF6w](https://www.youtube.com/watch?v=KtC2SbemF6w) |
+| 13 | Boot Camp Day 13: Risk Management | [note](../study/notes/2023-06-07-boot-camp-day-13.md) | [RkMBoqbeUq8](https://www.youtube.com/watch?v=RkMBoqbeUq8) |
+| 14 | Boot Camp Day 14: Fair Value Gaps Pt. 1 | [note](../study/notes/2023-06-08-boot-camp-day-14.md) | [d0AxLACYaqU](https://www.youtube.com/watch?v=d0AxLACYaqU) |
+| 15 | Boot Camp Day 15: Identifying problems | [note](../study/notes/2023-06-09-boot-camp-day-15.md) | [T4xVS7iV5d8](https://www.youtube.com/watch?v=T4xVS7iV5d8) |
+| 16 | Boot Camp Day 16: FVG Pt. 2 | [note](../study/notes/2023-06-11-boot-camp-day-16.md) | [S1kY3Fw6JUQ](https://www.youtube.com/watch?v=S1kY3Fw6JUQ) |
+| 17 | Boot Camp Day 17: Patience | [note](../study/notes/2023-06-11-boot-camp-day-17.md) | [339amTioakE](https://www.youtube.com/watch?v=339amTioakE) |
+| 18 | Boot Camp Day 18: FVG Pt. 3 | [note](../study/notes/2023-06-12-boot-camp-day-18.md) | [qecF411R83s](https://www.youtube.com/watch?v=qecF411R83s) |
+| 19 | Boot Camp Day 19: How to Read News Data | [note](../study/notes/2023-06-13-boot-camp-day-19.md) | [w5sUCqFH3Lg](https://www.youtube.com/watch?v=w5sUCqFH3Lg) |
+| 20 | Boot Camp Day 20: Order Blocks | [note](../study/notes/2023-06-14-boot-camp-day-20.md) | [qhuFg_OXdmE](https://www.youtube.com/watch?v=qhuFg_OXdmE) |
 | 21 | Boot Camp Day 21: How to Take a Win & Life Lessons | queued | [z9p7OThLkr4](https://www.youtube.com/watch?v=z9p7OThLkr4) |
 | 22 | Boot Camp Day 22: Order Blocks pt.2 | queued | [RQSVIKddFHI](https://www.youtube.com/watch?v=RQSVIKddFHI) |
 | 23 | Boot Camp Day 23: Check In/ Be my boy | queued | [ERbhCL9KW_g](https://www.youtube.com/watch?v=ERbhCL9KW_g) |

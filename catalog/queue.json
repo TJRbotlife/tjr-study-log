@@ -6,8 +6,8 @@
   "counts": {
     "boot-camp": 46,
     "boot-camp-2": 14,
-    "noted": 1,
-    "queued": 59
+    "noted": 20,
+    "queued": 40
   },
   "videos": [
     {
@@ -33,8 +33,8 @@
       "url": "https://www.youtube.com/watch?v=bEkbNGUzQME",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-05-27-boot-camp-day-02.md"
     },
     {
       "lane": "boot-camp",
@@ -46,8 +46,8 @@
       "url": "https://www.youtube.com/watch?v=w2CWF0WtLmQ",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-05-28-boot-camp-day-03.md"
     },
     {
       "lane": "boot-camp",
@@ -59,8 +59,8 @@
       "url": "https://www.youtube.com/watch?v=viuGHEuv0nw",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-05-29-boot-camp-day-04.md"
     },
     {
       "lane": "boot-camp",
@@ -72,8 +72,8 @@
       "url": "https://www.youtube.com/watch?v=N7so8LEHmLA",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-05-30-boot-camp-day-05.md"
     },
     {
       "lane": "boot-camp",
@@ -85,8 +85,8 @@
       "url": "https://www.youtube.com/watch?v=PmhuPbY8ZHo",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-05-31-boot-camp-day-06.md"
     },
     {
       "lane": "boot-camp",
@@ -98,8 +98,8 @@
       "url": "https://www.youtube.com/watch?v=_6voYEdi5j4",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-01-boot-camp-day-07.md"
     },
     {
       "lane": "boot-camp",
@@ -111,8 +111,8 @@
       "url": "https://www.youtube.com/watch?v=Lxnu7InGhGE",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-02-boot-camp-day-08.md"
     },
     {
       "lane": "boot-camp",
@@ -124,8 +124,8 @@
       "url": "https://www.youtube.com/watch?v=-ga9oK2bClQ",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-03-boot-camp-day-09.md"
     },
     {
       "lane": "boot-camp",
@@ -137,8 +137,8 @@
       "url": "https://www.youtube.com/watch?v=rdz6vnXb8wE",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-04-boot-camp-day-10.md"
     },
     {
       "lane": "boot-camp",
@@ -150,8 +150,8 @@
       "url": "https://www.youtube.com/watch?v=_jLR3XcB5eQ",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-05-boot-camp-day-11.md"
     },
     {
       "lane": "boot-camp",
@@ -163,8 +163,8 @@
       "url": "https://www.youtube.com/watch?v=KtC2SbemF6w",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-06-boot-camp-day-12.md"
     },
     {
       "lane": "boot-camp",
@@ -176,8 +176,8 @@
       "url": "https://www.youtube.com/watch?v=RkMBoqbeUq8",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-07-boot-camp-day-13.md"
     },
     {
       "lane": "boot-camp",
@@ -189,8 +189,8 @@
       "url": "https://www.youtube.com/watch?v=d0AxLACYaqU",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-08-boot-camp-day-14.md"
     },
     {
       "lane": "boot-camp",
@@ -202,8 +202,8 @@
       "url": "https://www.youtube.com/watch?v=T4xVS7iV5d8",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-09-boot-camp-day-15.md"
     },
     {
       "lane": "boot-camp",
@@ -215,8 +215,8 @@
       "url": "https://www.youtube.com/watch?v=S1kY3Fw6JUQ",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-11-boot-camp-day-16.md"
     },
     {
       "lane": "boot-camp",
@@ -228,8 +228,8 @@
       "url": "https://www.youtube.com/watch?v=339amTioakE",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-11-boot-camp-day-17.md"
     },
     {
       "lane": "boot-camp",
@@ -241,8 +241,8 @@
       "url": "https://www.youtube.com/watch?v=qecF411R83s",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-12-boot-camp-day-18.md"
     },
     {
       "lane": "boot-camp",
@@ -254,8 +254,8 @@
       "url": "https://www.youtube.com/watch?v=w5sUCqFH3Lg",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-13-boot-camp-day-19.md"
     },
     {
       "lane": "boot-camp",
@@ -267,8 +267,8 @@
       "url": "https://www.youtube.com/watch?v=qhuFg_OXdmE",
       "channel": "TJR",
       "channel_id": "UCGHBUXjDCeiIXNdKR0HUZnA",
-      "status": "queued",
-      "note": null
+      "status": "noted",
+      "note": "study/notes/2023-06-14-boot-camp-day-20.md"
     },
     {
       "lane": "boot-camp",

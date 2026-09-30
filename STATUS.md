@@ -6,9 +6,9 @@ Updated 2026-09-30. This file is the score. The score is how many lessons are wr
 | --- | ---: |
 | Boot Camp lessons indexed | 46 |
 | Boot Camp 2.0 lessons indexed | 14 |
-| Lessons written down | 1 |
-| Lessons still queued | 59 |
+| Lessons written down | 20 |
+| Lessons still queued | 40 |
 
-Next lesson: [Boot Camp Day 2: Candlesticks](https://www.youtube.com/watch?v=bEkbNGUzQME).
+Next lesson: [Boot Camp Day 21: How to Take a Win & Life Lessons](https://www.youtube.com/watch?v=z9p7OThLkr4).
 
-Latest note: [study/notes/2023-05-26-boot-camp-day-01.md](study/notes/2023-05-26-boot-camp-day-01.md).
+Latest note: [study/notes/2023-06-14-boot-camp-day-20.md](study/notes/2023-06-14-boot-camp-day-20.md).
